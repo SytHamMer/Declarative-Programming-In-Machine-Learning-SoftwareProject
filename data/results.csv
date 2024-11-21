@@ -1,5 +1,6 @@
-,easy,medium,hard
-backtracking_with_forward_checking,"[0.04340143203735351, 58.0, True]","[0.08239765167236328, 384.0, True]","[2.8845757484436034, 76745.0, True]"
-simple_backtracking,"[0.03980002403259277, 55.0, True]","[0.09331059455871582, 650.0, True]","[1.5488584518432618, 49558.0, True]"
-ac3_backtracking,"[0.04320158958435059, 55.0, True]","[0.12000007629394531, 650.0, True]","[1.8107632637023925, 49558.0, True]"
-hill_climb,"[68.13340020179749, 732492.5, True]",No result found,No result found
+,easy
+backtracking_with_forward_checking,"[0.07900071144104004, 58.0, True]"
+simple_backtracking,"[0.05499863624572754, 55.0, True]"
+ac3_backtracking,"[0.05700254440307617, 55.0, True]"
+graph,"[0.0039980411529541016, 55.0, True]"
+hill_climb,"[112.5335624217987, 805466.0, True]"
