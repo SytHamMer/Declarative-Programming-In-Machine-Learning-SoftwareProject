@@ -1,0 +1,6 @@
+,hard
+backtracking_with_forward_checking,"[0.04900336265563965, 45.0, True]"
+simple_backtracking,"[0.005999326705932617, 45.0, True]"
+ac3_backtracking,"[0.010033607482910156, 45.0, True]"
+graph,"[0.003968477249145508, 45.0, True]"
+hill_climb,No result found
